@@ -1,0 +1,39 @@
+{
+  "SaveHistoryUnrecognizedСommands": [
+    {
+      "date": "2022-06-26 16:46:51",
+      "nameCommand": "николай",
+      "countRepetitions": 2
+    },
+    {
+      "date": "2022-06-26 18:43:11",
+      "nameCommand": "вот",
+      "countRepetitions": 1
+    },
+    {
+      "date": "2022-06-27 07:40:57",
+      "nameCommand": "",
+      "countRepetitions": 6
+    },
+    {
+      "date": "2022-06-26 23:32:16",
+      "nameCommand": "посмотри",
+      "countRepetitions": 2
+    },
+    {
+      "date": "2022-06-26 23:42:06",
+      "nameCommand": "пошёл",
+      "countRepetitions": 1
+    },
+    {
+      "date": "2022-06-27 07:06:03",
+      "nameCommand": "от края браузер ой",
+      "countRepetitions": 1
+    },
+    {
+      "date": "2022-06-27 07:41:46",
+      "nameCommand": "чего-нибудь",
+      "countRepetitions": 1
+    }
+  ]
+}

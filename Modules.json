@@ -1,0 +1,93 @@
+{
+    "Modules": [
+        [
+            {
+                "nameModule": "Browser work module"
+            },
+            {
+                "name": "Команда открытия браузера",
+                "voiceResponse": [
+                    "открой браузер",
+                    "открой интернет"
+                ],
+                "path": "./Modules/Browser_work_module/openBrowser.py"
+            },
+            {
+                "name": "Команда открытия новой вкладки в браузере",
+                "voiceResponse": [
+                    "открой новую вкладку",
+                    "открой новую страницу",
+                    "открой новую вкладку в браузере",
+                    "открой новую страницу в браузере"
+                ],
+                "path": "./Modules/Browser_work_module/openNewPage.py"
+            },
+            {
+                "name": "Команда поиска в браузере",
+                "voiceResponse": [
+                    "найди в интернете",
+                    "найди в браузере"
+                ],
+                "path": "./Modules/Browser_work_module/FindAtWeb.py"
+            }
+        ],
+        [
+            {
+                "nameModule": "PC control module"
+            },
+            {
+                "name": "Команда открытия калькулятора",
+                "voiceResponse": [
+                    "открой калькулятор"
+                ],
+                "path": "./Modules/PC_control_module/openCalculator.py"
+            },
+            {
+                "name": "Команда открытия терминала",
+                "voiceResponse": [
+                    "открой консоль",
+                    "открой терминал"
+                ],
+                "path": "./Modules/PC_control_module/openTerminal.py"
+            },
+            {
+                "name": "Команда открытия текстового файла",
+                "voiceResponse": [
+                    "открой текстовый файл",
+                    "открой документ",
+                    "открой новый текстовый файл",
+                    "открой новый документ"
+                ],
+                "path": "./Modules/PC_control_module/openTextFile.py"
+            },
+            {
+                "name": "Команда открытия музыкального плеера",
+                "voiceResponse": [
+                    "открой плеер",
+                    "открой музыкальный плеер",
+                    "открой музыку"
+                ],
+                "path": "./Modules/PC_control_module/openMusicPlayer.py"
+            },
+            {
+                "name": "Команда уменьшения звука",
+                "voiceResponse": [
+                    "уменьши звук",
+                    "сделай тише",
+                    "сделай звук тише"
+                ],
+                "path": "./Modules/PC_control_module/reduceTheSound.py"
+            },
+            {
+                "name": "Команда увеличения звука",
+                "voiceResponse": [
+                    "увеличь звук",
+                    "сделай громче",
+                    "сделай звук громче"
+                ],
+                "path": "./Modules/PC_control_module/increaseTheSound.py"
+            }
+
+        ]
+    ]
+}
